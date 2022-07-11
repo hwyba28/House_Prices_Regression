@@ -8,4 +8,4 @@
 
 Youtube 참조 : https://youtu.be/zwBqFJp_Uvc
 <br>
-![Uploading image.png…]()
+<img width="1254" alt="image" src="https://user-images.githubusercontent.com/108180200/178360962-5fd7129d-c034-496a-a2c5-7ac805c97ac2.png">

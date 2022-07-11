@@ -1,4 +1,4 @@
-# House_Prising_Regression - 개인 프로젝트
+# House_Prising_Regression(머신러닝) - 개인 프로젝트
 
 실습 프로젝트 설명 
 1. 주어지는 train.csv, test.csv 데이터를 전처리<br>

@@ -7,3 +7,5 @@
 4. 가장 높은 정확성 높은 모델을 사용하여 test 데이터의 결과를 출력<br>
 
 Youtube 참조 : https://youtu.be/zwBqFJp_Uvc
+<br>
+![Uploading image.png…]()

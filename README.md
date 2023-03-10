@@ -1,4 +1,4 @@
-# House_Prising_Regression(ML) - Personal project
+# House_Prices_Regression(ML) - Personal project
 
 Project Description 
 1. Preprocess the given data - train.csv, test.csv<br>
@@ -11,7 +11,7 @@ Youtube about this project : https://youtu.be/zwBqFJp_Uvc
 <br>
 <img width="1254" alt="image" src="https://user-images.githubusercontent.com/108180200/178360962-5fd7129d-c034-496a-a2c5-7ac805c97ac2.png">
 <br><br>
-# House_Prising_Regression(머신러닝) - 개인 프로젝트
+# House_Prices_Regression(머신러닝) - 개인 프로젝트
 
 실습 프로젝트 설명 
 1. 주어지는 train.csv, test.csv 데이터를 전처리<br>
